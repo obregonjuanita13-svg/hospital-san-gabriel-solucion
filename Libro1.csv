@@ -1,0 +1,52 @@
+código; edad;sexo;fecha de consulta; motivo; temperatura (°C);frecuencia cardíaca (lpm);saturación de oxígeno (%);diagnóstico simulado;estado de atención
+P001;25;F;20/10/2026;Dolor de cabeza;36,8;78;98%;Cefalea; Finalizada
+P002;42;M;21/10/2026;Tos;37,5;85;97%;Resfriado común;En atención
+P003;31;F;22/10/2026;Control general;36,5;72;99%;Control preventivo;Finalizada
+P004;67;M;22/10/2026;Mareo;37;92;95%;Vértigo;Pendiente
+P005;19;F;23/10/2026;Dolor abdominal;38,1;101;98%;Gastroenteritis;En atención
+P006;54;M;23/10/2026;Revisión médica;36,7;76;97%;Control preventivo;Finalizada
+P007;38;F;24/10/2026;Fiebre;38,5;105;96%;Síndrome febril;En atención
+P008;45;M;24/10/2026;Dolor muscular;36,9;81;99%;Mialgia;Finalizada
+P009;72;F;25/10/2026;Dificultad respiratoria;37,8;110;91%;Afección respiratoria;En atención
+P010;29;M;25/10/2026;Control general;36,6;70;98%;Control preventivo;Finalizada
+P011;33;F;26/10/2026;Náuseas;37,2;88;97%;Trastorno digestivo;Pendiente
+P012;61;M;26/10/2026;Dolor de pecho;37;98;94%;Dolor torácico en estudio;En atención
+P013;40;F;27/10/2026;Dolor de garganta;37,9;89;98%;Faringitis;Finalizada
+P014;23;M;27/10/2026;Lesión deportiva;36,4;74;99%;Contusión;Finalizada
+P015;58;F;28/10/2026;Fatiga;36,7;83;97%;Fatiga en estudio;Pendiente
+P016;35;M;28/10/2026;Tos persistente;37,6;91;;Afección respiratoria;En atención
+P017;47;F;28/10/2026;Dolor lumbar;36,8;79;98%;Lumbalgia;Finalizada
+P018;64;M;29/10/2026;Dolor articular;37,1;86;96%;Artralgia;En atención
+P019;27;F;29/10/2026;Control preventivo;36,5;73;99%;Control preventivo;Finalizada
+P020;50;M;29/10/2026;Dolor de cabeza;37,3;90;97%;Cefalea;Pendiente
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;ANÁlISIS ;Columna1;;Suma de saturación de oxígeno (%);;;;;
+;TOTAL DE PACIENTES ;20;;18,43;;;;;
+;EDAD PROMEDIO;43;;;;;;;
+;TEMPERATURA;37,145;;;;;;;
+;CANTIDAD DE PACIENTES MUJERES;10;;;;;;;
+;CANTIDAD DE PACIENTES HOMBRES ;10;;;;;;;
+;CANTIDAD DE ESTADO DE ATENCIÓN FINALIZADA;9;;;;;;;
+;CANTIDAD DE ESTADO DE ATENCIÓN PENDIENTE;4;;;;;;;
+;CANTIDAD DE ESTADO DE ATENCIÓN EN ATENCION ;7;;;;;;;
+;SATURACIÓN MÍNIMA REGISTRADA ;91%;;;;;;;
+;CANTIDAD DE REGISTROS INCOMPLETOS ;1;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;Suma de frecuencia cardíaca (lpm);;;;;
+;;;;1721;;;;;
